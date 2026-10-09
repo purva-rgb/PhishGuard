@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pytest
+httpx
+tldextract>=5.3
+rapidfuzz
+beautifulsoup4
