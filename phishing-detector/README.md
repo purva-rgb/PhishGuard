@@ -93,7 +93,7 @@ curl.exe -i -X POST http://127.0.0.1:8000/api/analyze/email -H "Content-Type: ap
 python -m pytest
 ```
 
-### Configuration
+## Configuration
 
 CORS allows `http://localhost:3000` and `http://localhost:5173` by default. To change this, set the
 `CORS_ORIGINS` environment variable (comma-separated); see `.env.example`.
